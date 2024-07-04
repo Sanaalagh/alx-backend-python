@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-This is a module that provides a function for finding the length of each
+A module that provides a function for finding the length of each
     element in a list of strings.
 """
 from typing import Iterable, List, Sequence, Tuple

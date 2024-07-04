@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-This is a module that provides a function for zooming in on a tuple.
+A module that provides a function for zooming in on a tuple.
 """
 from typing import List, Tuple
 
@@ -31,12 +31,3 @@ array = (12, 72, 91)
 zoom_2x = zoom_array(array)
 
 zoom_3x = zoom_array(array, 3)
-
-# :man: Author and Credits.
-This project was done by [SE. Moses Mwangi](https://github.com/MosesSoftEng). Feel free to get intouch with me;
-
-:iphone: WhatsApp [+254115227963](https://wa.me/254115227963)
-
-:email: Email [moses.soft.eng@gmail.com](mailto:moses.soft.eng@gmail.com)
-
-:thumbsup: A lot of thanks to [ALX-Africa Software Engineering](https://www.alxafrica.com/) program for the project requirements.

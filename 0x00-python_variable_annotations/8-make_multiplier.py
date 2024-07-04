@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-This is a module that provides a function for creating a function that
+A module that provides a function for creating a function that
     multiplies a float by a multiplier.
 """
 from typing import Callable
@@ -8,7 +8,7 @@ from typing import Callable
 
 def make_multiplier(multiplier: float) -> Callable[[float], float]:
     """
-    This function takes a float as an argument and returns a function that
+    It takes a float as an argument and returns a function that
         multiplies a float by the multiplier.
 
     Parameters:
